@@ -1,6 +1,6 @@
-from stats import get_num_words
-from stats import get_char_count
-from stats import sort_char_counts
+from stats import (get_num_words, 
+                   get_char_count,
+                   sort_char_counts)
 
 book_path = "books/frankenstein.txt"
 
